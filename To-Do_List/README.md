@@ -116,21 +116,6 @@ The app will open automatically in your browser at `http://localhost:8501`.
 5. **Delete** – Select a task and click **Delete** to remove it.
 
 ---
-
-## 🔮 Future Improvements
-
-- Add a unique ID for each task to safely handle duplicate task names
-- Use fully parameterized SQL queries everywhere
-- Add search, filtering, and sorting
-- Highlight overdue tasks
-- User authentication and multi-user support
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to open an issue or submit a pull request.
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
